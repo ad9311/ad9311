@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ángel Díaz.
+- 🇨🇴 I'm from Colombia.
+- 👀 I’m interested in 🎮 vdeo games, 🖥️ tchnology, 🐧 lnux systems.
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- 📖 I'm part of Microverse.
