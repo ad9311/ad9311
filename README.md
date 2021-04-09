@@ -1,6 +1,7 @@
-# -Ángel Díaz-
+# Hey I'm Ángel
+## I am a software developer on the making!
 
-Hey I'm Ángel from Colombia 🇨🇴 thanks for visiting my page!
+Love creating new things and explore new technologies!
 
 - 🐦 Twitter: [Twitter](https://twitter.com/adiaz9311)
 - 📰 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ad9311/)
