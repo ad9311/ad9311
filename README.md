@@ -1,8 +1,4 @@
-# Hey I'm Ángel
-## I am a software developer on the making!
-
-Love creating new things and explore new technologies!
-
+[banner](/img/banner.png)
 - 🐦 Twitter: [Twitter](https://twitter.com/adiaz9311)
 - 📰 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ad9311/)
 
