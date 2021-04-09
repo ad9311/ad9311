@@ -3,6 +3,7 @@
 ### About me 👆🏼
 - I am an Electronics Engineer with programming knowledge ⚡
 - Arduino and PIC 📟
+- Available for hire
 - Currently learning web development 🌐
 - Looking to collaborate and learn new technologies
 ### Follow me 👇🏼
