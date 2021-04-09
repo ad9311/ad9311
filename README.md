@@ -1,4 +1,4 @@
-[banner](/img/banner.png)
+![banner](/img/banner.png)
 - 🐦 Twitter: [Twitter](https://twitter.com/adiaz9311)
 - 📰 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ad9311/)
 
