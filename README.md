@@ -10,9 +10,10 @@ Software developer, Linux enthusiast. Looking for my next job!
 
 ### My Abilities 🔧
 - ![HTML](https://img.shields.io/badge/-HTML-blue)
-- ![CSS](https://img.shields.io/badge/-CSS-red)
+- ![CSS](https://img.shields.io/badge/-CSS-green)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- ![Purple](https://img.shields.io/badge/-Bootstrap-purple)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
+- ![Ruby](https://img.shields.io/badge/-Ruby-red)
 
 ### Follow me 👇🏼
 [![twitter](/img/twitter.png)](https://twitter.com/adiaz9311)
