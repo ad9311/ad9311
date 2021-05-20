@@ -20,3 +20,5 @@ Software developer, Linux enthusiast. Looking for my next job!
 [![linkedin](/img/linkedin.png)](https://www.linkedin.com/in/ad9311/)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad9311&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad9311&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
