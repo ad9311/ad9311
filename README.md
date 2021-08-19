@@ -1,6 +1,6 @@
 ![banner](/img/banner.png)
 
-Software developer, Linux enthusiast. Looking for my next job!
+Full Stack Web Developer, Linux enthusiast. Looking for my next job!
 ---
 ### More About me 👆🏼
 - I am an Electronics Engineer with programming knowledge ⚡
@@ -12,8 +12,10 @@ Software developer, Linux enthusiast. Looking for my next job!
 - ![HTML](https://img.shields.io/badge/-HTML-blue)
 - ![CSS](https://img.shields.io/badge/-CSS-green)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![JavaScript](https://img.shields.io/badge/-Webpack-yellow)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
 - ![Ruby](https://img.shields.io/badge/-Ruby-red)
+- ![Ruby](https://img.shields.io/badge/-RubyOnRails-red)
 
 ### Follow me 👇🏼
 [![twitter](/img/twitter.png)](https://twitter.com/adiaz9311)
