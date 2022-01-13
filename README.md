@@ -1,26 +1,24 @@
 ![banner](/img/banner.png)
 
-Full Stack Web Developer, Linux enthusiast. Looking for my next job!
----
-### More About me 👆🏼
-- I am an Electronics Engineer with programming knowledge ⚡
-- Arduino and PIC 📟
-- Currently learning web development 🌐
-- Looking to collaborate and learn new technologies
+### Hello! My name is Ángel Díaz from Colombia.</br>
+
+<p>I am Full-stack web developer and open-source enthusiast with a love for clean code and accessible design.</br>
+Looking for my next job!</p>
 
 ### My Abilities 🔧
-- ![HTML](https://img.shields.io/badge/-HTML-blue)
-- ![CSS](https://img.shields.io/badge/-CSS-green)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- ![JavaScript](https://img.shields.io/badge/-Webpack-yellow)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
-- ![Ruby](https://img.shields.io/badge/-Ruby-red)
-- ![Ruby](https://img.shields.io/badge/-RubyOnRails-red)
+![HTML](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-blueviolet?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-Js-yellow?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-Ruby-red?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-Golang-blue?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-Ruby_On_rails-red?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-React/Redux-blueviolet?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge)
 
 ### Follow me 👇🏼
 [![twitter](/img/twitter.png)](https://twitter.com/adiaz9311)
 [![linkedin](/img/linkedin.png)](https://www.linkedin.com/in/ad9311/)
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad9311&show_icons=true&theme=tokyonight)
+[![page](/img/ad-page.png)](https://angel-diaz.netlify.app/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad9311&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
