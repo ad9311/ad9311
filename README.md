@@ -1,24 +1,37 @@
-![banner](/img/banner.png)
+| ![logo](https://raw.githubusercontent.com/ad9311/ad9311.github.io/main/assests/img/svgs/ad%4064x64.svg) | Ángel Díaz |
+|--|--|
 
-### Hello! My name is Ángel Díaz from Colombia.</br>
-
-<p>I am Full-stack web developer and open-source enthusiast with a love for clean code and accessible design.</br>
-Looking for my next job!</p>
+I'm a **Full-stack Web Developer** with experience building responsive, user-friendly web applications. Skilled in front-end and back-end development.
+<br/>
 
 ### My Abilities 🔧
-![HTML](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-blueviolet?style=for-the-badge)
-![CSS](https://img.shields.io/badge/-Js-yellow?style=for-the-badge)
-![CSS](https://img.shields.io/badge/-Ruby-red?style=for-the-badge)
-![CSS](https://img.shields.io/badge/-Golang-blue?style=for-the-badge)
-![CSS](https://img.shields.io/badge/-Ruby_On_rails-red?style=for-the-badge)
-![CSS](https://img.shields.io/badge/-React/Redux-blueviolet?style=for-the-badge)
-![CSS](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge)
+<br/>
 
-### Follow me 👇🏼
-[![twitter](/img/twitter.png)](https://twitter.com/adiaz9311)
-[![linkedin](/img/linkedin.png)](https://www.linkedin.com/in/ad9311/)
-[![page](/img/ad-page.png)](https://angel-diaz.netlify.app/)
+![html5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![css3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+![js](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad9311&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![react](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite)
+![react](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![react](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux)
+![react](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
+<br/>
 
+![react](https://img.shields.io/badge/-GO-black?style=for-the-badge&logo=go)
+![react](https://img.shields.io/badge/-Ruby-black?style=for-the-badge&logo=ruby)
+![react](https://img.shields.io/badge/-Rails-black?style=for-the-badge&logo=rubyonrails)
+![react](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
+<br />
+
+![react](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+![react](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass)
+![react](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+<br />
+
+### Contact me 👇🏽
+<br />
+
+[![linkedin](https://img.shields.io/badge/-LinkedIn-white?style=plastic)](https://www.linkedin.com/in/ad9311/)
+[![linkedin](https://img.shields.io/badge/-Twitter-white?style=plastic)](https://twitter.com/adiaz9311)
+[![linkedin](https://img.shields.io/badge/-Portfolio-white?style=plastic)](https://www.linkedin.com/in/ad9311/)
