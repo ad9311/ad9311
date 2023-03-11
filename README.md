@@ -1,6 +1,9 @@
 | ![logo](https://raw.githubusercontent.com/ad9311/ad9311.github.io/main/assests/img/svgs/ad%4064x64.svg) | Ángel Díaz |
 |--|--|
 
+## Hello and welcome! 👋🏽
+<br/>
+
 I'm a **Full-stack Web Developer** with experience building responsive, user-friendly web applications. Skilled in front-end and back-end development.
 <br/>
 
