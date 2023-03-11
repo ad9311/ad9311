@@ -1,14 +1,12 @@
-| ![logo](https://raw.githubusercontent.com/ad9311/ad9311.github.io/main/assests/img/svgs/ad%4064x64.svg) | Ángel Díaz |
-|--|--|
+# Hello and welcome👋🏽, I am Ángel Díaz | ![logo](https://raw.githubusercontent.com/ad9311/ad9311.github.io/main/assests/img/svgs/ad%4064x64.svg)
 
-## Hello and welcome! 👋🏽
+### ***I'm Passionate about writing reliable and clean code.***
 <br/>
 
-I'm a **Full-stack Web Developer** with experience building responsive, user-friendly web applications. Skilled in front-end and back-end development.
+I'm a **Full-stack Web Developer** with experience building responsive, user-friendly web applications. I'm skilled in front-end and back-end development. Check out my **[page](https://portfolio-bay-iota.vercel.app/)** for my information.
 <br/>
-
-### My Abilities 🔧
-<br/>
+***
+### My stack 🔧
 
 ![html5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
@@ -31,8 +29,10 @@ I'm a **Full-stack Web Developer** with experience building responsive, user-fri
 ![react](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass)
 ![react](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
 <br />
-
+***
 ### Contact me 👇🏽
+
+I'm currently working as a web developer. If you wish to contact me for collaborations, you can reach me through my social media and personal page.
 <br />
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-white?style=plastic)](https://www.linkedin.com/in/ad9311/)
