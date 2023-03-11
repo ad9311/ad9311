@@ -1,4 +1,4 @@
-# Hello and welcome👋🏽, I am Ángel Díaz | ![logo](https://raw.githubusercontent.com/ad9311/ad9311.github.io/main/assests/img/svgs/ad%4064x64.svg)
+# Hello and welcome👋🏽, I am Ángel Díaz | ![logo](https://raw.githubusercontent.com/ad9311/ad9311.github.io/main/assests/img/svgs/ad%4032x32.svg)
 
 ### ***I'm Passionate about writing reliable and clean code.***
 <br/>
